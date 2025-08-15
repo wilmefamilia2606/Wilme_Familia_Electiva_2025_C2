@@ -2058,7 +2058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Proyecto_componente:GP8303"
+		(property "Footprint" "Project Library:GP8303"
 			(at 160.02 118.11 0)
 			(effects
 				(font

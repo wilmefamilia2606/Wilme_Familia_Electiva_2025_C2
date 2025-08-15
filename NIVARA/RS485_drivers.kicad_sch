@@ -1113,7 +1113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Proyecto_componente:RSM3485ECHT"
+		(property "Footprint" "Project Library:RSM3485ECHT"
 			(at 128.27 87.63 0)
 			(effects
 				(font

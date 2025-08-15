@@ -1000,7 +1000,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Project Library:GP8201S"
 			(at 143.51 107.95 0)
 			(effects
 				(font
@@ -1085,7 +1085,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 167.64 96.8248 0)
 			(effects
 				(font
@@ -1351,7 +1351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 159.0548 110.49 0)
 			(effects
 				(font

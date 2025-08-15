@@ -1156,7 +1156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Proyecto_componente:LK1802"
+		(property "Footprint" "Project Library:LK1802"
 			(at 113.03 102.87 0)
 			(effects
 				(font
